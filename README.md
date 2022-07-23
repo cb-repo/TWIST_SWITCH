@@ -1,6 +1,6 @@
 # TWIST SWITCH v1.0
 
-<img src="assets/TWIST_SWITCH.jpg" width="400">  <img src="assets/INSTALLED.jpg" width="400"> 
+<img src="assets/TWIST_SWITCH.png" width="400">  <img src="assets/INSTALLED.png" width="400"> 
 
 TWIST SWITCH is a light-weight vibration-resistant power switch: originally designed for combat robotics, but it's suitable for any application that requires small form-factor power switch. 
 
